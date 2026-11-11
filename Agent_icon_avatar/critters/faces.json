@@ -1,0 +1,565 @@
+{
+  "style": "critters",
+  "generator": "@dicebear/core 10.7.0 + @dicebear/styles 10.6.0",
+  "httpApi": "https://api.dicebear.com/10.x/critters/svg",
+  "license": {
+    "name": "CC0 1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "text": "„Critters” (https://www.dicebear.com) by „DiceBear”, licensed under „CC0 1.0” (https://creativecommons.org/publicdomain/zero/1.0/)"
+  },
+  "creator": {
+    "name": "DiceBear",
+    "url": "https://www.dicebear.com"
+  },
+  "source": {
+    "name": "Critters",
+    "url": "https://www.dicebear.com"
+  },
+  "faces": [
+    {
+      "id": "01",
+      "name": "Sunny",
+      "file": "01-Sunny.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "eyesVariant": [
+          "happy",
+          "round",
+          "bigPupils"
+        ],
+        "mouthVariant": [
+          "smile",
+          "grin",
+          "tinySmile",
+          "catMouth"
+        ],
+        "patternProbability": 30,
+        "cheeksProbability": 60,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "seed": "Sunny",
+        "backgroundColor": [
+          "fef3c7"
+        ],
+        "bodyColor": [
+          "fdba74"
+        ],
+        "topVariant": [
+          "earsRound"
+        ],
+        "bodyVariant": [
+          "round"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#fef3c7"
+        ],
+        "bodyVariant": "round",
+        "topVariant": "earsRound",
+        "inkColorFill": "solid",
+        "inkColor": [
+          "#1e293b"
+        ],
+        "accentColorFill": "solid",
+        "bodyColorFill": "solid",
+        "bodyColor": [
+          "#fdba74"
+        ],
+        "accentColor": [
+          "#e2e8f0"
+        ],
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "bodyRotate": 0,
+        "bodyTranslateX": 0,
+        "bodyTranslateY": 0,
+        "bodyScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "happy",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "mouthVariant": "grin",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "02",
+      "name": "Bloom",
+      "file": "02-Bloom.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "eyesVariant": [
+          "happy",
+          "round",
+          "bigPupils"
+        ],
+        "mouthVariant": [
+          "smile",
+          "grin",
+          "tinySmile",
+          "catMouth"
+        ],
+        "patternProbability": 30,
+        "cheeksProbability": 60,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "seed": "Bloom",
+        "backgroundColor": [
+          "fce7f3"
+        ],
+        "bodyColor": [
+          "f0abfc"
+        ],
+        "topVariant": [
+          "sprout"
+        ],
+        "bodyVariant": [
+          "dome"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#fce7f3"
+        ],
+        "bodyVariant": "dome",
+        "topVariant": "sprout",
+        "inkColorFill": "solid",
+        "inkColor": [
+          "#1e293b"
+        ],
+        "accentColorFill": "solid",
+        "bodyColorFill": "solid",
+        "bodyColor": [
+          "#f0abfc"
+        ],
+        "accentColor": [
+          "#6ee7b9"
+        ],
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "bodyRotate": 0,
+        "bodyTranslateX": 0,
+        "bodyTranslateY": 0,
+        "bodyScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "bigPupils",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "mouthVariant": "grin",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "03",
+      "name": "Sky",
+      "file": "03-Sky.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "eyesVariant": [
+          "happy",
+          "round",
+          "bigPupils"
+        ],
+        "mouthVariant": [
+          "smile",
+          "grin",
+          "tinySmile",
+          "catMouth"
+        ],
+        "patternProbability": 30,
+        "cheeksProbability": 60,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "seed": "Sky",
+        "backgroundColor": [
+          "e0f2fe"
+        ],
+        "bodyColor": [
+          "7dd3fc"
+        ],
+        "topVariant": [
+          "antenna"
+        ],
+        "bodyVariant": [
+          "blob"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#e0f2fe"
+        ],
+        "bodyVariant": "blob",
+        "topVariant": "antenna",
+        "inkColorFill": "solid",
+        "inkColor": [
+          "#1e293b"
+        ],
+        "accentColorFill": "solid",
+        "bodyColorFill": "solid",
+        "bodyColor": [
+          "#7dd3fc"
+        ],
+        "accentColor": [
+          "#c4b5fd"
+        ],
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "bodyRotate": 0,
+        "bodyTranslateX": 0,
+        "bodyTranslateY": 0,
+        "bodyScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "round",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "mouthVariant": "catMouth",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "04",
+      "name": "Mint",
+      "file": "04-Mint.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "eyesVariant": [
+          "happy",
+          "round",
+          "bigPupils"
+        ],
+        "mouthVariant": [
+          "smile",
+          "grin",
+          "tinySmile",
+          "catMouth"
+        ],
+        "patternProbability": 30,
+        "cheeksProbability": 60,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "seed": "Mint",
+        "backgroundColor": [
+          "d1fae5"
+        ],
+        "bodyColor": [
+          "6ee7b9"
+        ],
+        "topVariant": [
+          "hornsSmall"
+        ],
+        "bodyVariant": [
+          "bell"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#d1fae5"
+        ],
+        "bodyVariant": "bell",
+        "topVariant": "hornsSmall",
+        "inkColorFill": "solid",
+        "inkColor": [
+          "#1e293b"
+        ],
+        "accentColorFill": "solid",
+        "bodyColorFill": "solid",
+        "bodyColor": [
+          "#6ee7b9"
+        ],
+        "accentColor": [
+          "#fda4af"
+        ],
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "bodyRotate": 0,
+        "bodyTranslateX": 0,
+        "bodyTranslateY": 0,
+        "bodyScale": 1,
+        "eyesVariant": "bigPupils",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "mouthVariant": "grin",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "05",
+      "name": "Lilac",
+      "file": "05-Lilac.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "eyesVariant": [
+          "happy",
+          "round",
+          "bigPupils"
+        ],
+        "mouthVariant": [
+          "smile",
+          "grin",
+          "tinySmile",
+          "catMouth"
+        ],
+        "patternProbability": 30,
+        "cheeksProbability": 60,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "seed": "Lilac",
+        "backgroundColor": [
+          "ede9fe"
+        ],
+        "bodyColor": [
+          "c4b5fd"
+        ],
+        "topVariant": [
+          "earsPointy"
+        ],
+        "bodyVariant": [
+          "squat"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ede9fe"
+        ],
+        "bodyVariant": "squat",
+        "inkColorFill": "solid",
+        "inkColor": [
+          "#1e293b"
+        ],
+        "bodyColorFill": "solid",
+        "bodyColor": [
+          "#c4b5fd"
+        ],
+        "bodyRotate": 0,
+        "bodyTranslateX": 0,
+        "bodyTranslateY": 0,
+        "bodyScale": 1,
+        "eyesVariant": "happy",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "mouthVariant": "tinySmile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "06",
+      "name": "Lemon",
+      "file": "06-Lemon.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "eyesVariant": [
+          "happy",
+          "round",
+          "bigPupils"
+        ],
+        "mouthVariant": [
+          "smile",
+          "grin",
+          "tinySmile",
+          "catMouth"
+        ],
+        "patternProbability": 30,
+        "cheeksProbability": 60,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "seed": "Lemon",
+        "backgroundColor": [
+          "fef9c3"
+        ],
+        "bodyColor": [
+          "fcd34d"
+        ],
+        "topVariant": [
+          "crown"
+        ],
+        "bodyVariant": [
+          "peak"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#fef9c3"
+        ],
+        "bodyVariant": "peak",
+        "topVariant": "crown",
+        "inkColorFill": "solid",
+        "inkColor": [
+          "#1e293b"
+        ],
+        "accentColorFill": "solid",
+        "bodyColorFill": "solid",
+        "bodyColor": [
+          "#fcd34d"
+        ],
+        "accentColor": [
+          "#a5b4fc"
+        ],
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "bodyRotate": 0,
+        "bodyTranslateX": 0,
+        "bodyTranslateY": 0,
+        "bodyScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "round",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "mouthVariant": "grin",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    }
+  ]
+}

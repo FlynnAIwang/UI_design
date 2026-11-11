@@ -1,0 +1,750 @@
+{
+  "style": "thumbs",
+  "generator": "@dicebear/core 10.7.0 + @dicebear/styles 10.6.0",
+  "httpApi": "https://api.dicebear.com/10.x/thumbs/svg",
+  "license": {
+    "name": "CC0 1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "text": "„Thumbs” (https://www.dicebear.com) by „DiceBear”, licensed under „CC0 1.0” (https://creativecommons.org/publicdomain/zero/1.0/)"
+  },
+  "creator": {
+    "name": "DiceBear",
+    "url": "https://www.dicebear.com"
+  },
+  "source": {
+    "name": "Thumbs",
+    "url": "https://www.dicebear.com"
+  },
+  "faces": [
+    {
+      "id": "01",
+      "name": "orange-heart",
+      "file": "01-orange-heart.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "orange-heart",
+        "eyesVariant": [
+          "variant01"
+        ],
+        "mouthVariant": [
+          "variant02"
+        ],
+        "shapeColor": [
+          "f88c49"
+        ],
+        "backgroundColor": [
+          "f1f4dc"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#f1f4dc"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#f88c49"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant01",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": -17.4094,
+        "eyesTranslateY": -8.5164,
+        "eyesScale": 1,
+        "mouthVariant": "variant02",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 2.0915,
+        "mouthScale": 1,
+        "headRotate": -11.4836,
+        "headTranslateX": 14.3112,
+        "headTranslateY": 9.4284,
+        "headScale": 1,
+        "bodyRotate": -12.3774,
+        "bodyTranslateX": 2.9789,
+        "bodyTranslateY": 3.1331,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "02",
+      "name": "sky-laugh",
+      "file": "02-sky-laugh.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "sky-laugh",
+        "eyesVariant": [
+          "variant03"
+        ],
+        "mouthVariant": [
+          "variant02"
+        ],
+        "shapeColor": [
+          "69d2e7"
+        ],
+        "backgroundColor": [
+          "f1f4dc"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#f1f4dc"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#69d2e7"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant03",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": -7.5935,
+        "eyesTranslateY": -3.0976,
+        "eyesScale": 1,
+        "mouthVariant": "variant02",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 3.1674,
+        "mouthScale": 1,
+        "headRotate": -0.4859,
+        "headTranslateX": -3.4992,
+        "headTranslateY": -2.8046,
+        "headScale": 1,
+        "bodyRotate": -6.1281,
+        "bodyTranslateX": 2.4626,
+        "bodyTranslateY": 1.3493,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "03",
+      "name": "cream-smile",
+      "file": "03-cream-smile.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "cream-smile",
+        "eyesVariant": [
+          "variant04"
+        ],
+        "mouthVariant": [
+          "variant01"
+        ],
+        "shapeColor": [
+          "f1f4dc"
+        ],
+        "backgroundColor": [
+          "f88c49"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#f88c49"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#f1f4dc"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant04",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": -7.4591,
+        "eyesTranslateY": -9.1499,
+        "eyesScale": 1,
+        "mouthVariant": "variant01",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": -2.9684,
+        "mouthScale": 1,
+        "headRotate": 14.5956,
+        "headTranslateX": 9.3584,
+        "headTranslateY": -9.9393,
+        "headScale": 1,
+        "bodyRotate": -4.379,
+        "bodyTranslateX": 2.2497,
+        "bodyTranslateY": -1.5377,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "04",
+      "name": "orange-wink",
+      "file": "04-orange-wink.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "orange-wink",
+        "eyesVariant": [
+          "variant07"
+        ],
+        "mouthVariant": [
+          "variant01"
+        ],
+        "shapeColor": [
+          "f88c49"
+        ],
+        "backgroundColor": [
+          "69d2e7"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#69d2e7"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#f88c49"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant07",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": -16.278,
+        "eyesTranslateY": 5.5946,
+        "eyesScale": 1,
+        "mouthVariant": "variant01",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": -7.7327,
+        "mouthScale": 1,
+        "headRotate": -5.309,
+        "headTranslateX": -14.2321,
+        "headTranslateY": 12.634,
+        "headScale": 1,
+        "bodyRotate": 5.3503,
+        "bodyTranslateX": 2.1668,
+        "bodyTranslateY": 3.4847,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "05",
+      "name": "blue-happy",
+      "file": "05-blue-happy.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "blue-happy",
+        "eyesVariant": [
+          "variant05"
+        ],
+        "mouthVariant": [
+          "variant02"
+        ],
+        "shapeColor": [
+          "1c799f"
+        ],
+        "backgroundColor": [
+          "69d2e7"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#69d2e7"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#1c799f"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant05",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#ffffff"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": 19.4641,
+        "eyesTranslateY": -5.1143,
+        "eyesScale": 1,
+        "mouthVariant": "variant02",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#ffffff"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 5.1275,
+        "mouthScale": 1,
+        "headRotate": -9.7045,
+        "headTranslateX": -9.5578,
+        "headTranslateY": 10.5081,
+        "headScale": 1,
+        "bodyRotate": 1.1329,
+        "bodyTranslateX": -3.6844,
+        "bodyTranslateY": -3.0346,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "06",
+      "name": "sky-content",
+      "file": "06-sky-content.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "sky-content",
+        "eyesVariant": [
+          "variant02"
+        ],
+        "mouthVariant": [
+          "variant04"
+        ],
+        "shapeColor": [
+          "69d2e7"
+        ],
+        "backgroundColor": [
+          "1c799f"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#1c799f"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#69d2e7"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant02",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": -2.4844,
+        "eyesTranslateY": -6.4164,
+        "eyesScale": 1,
+        "mouthVariant": "variant04",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 9.5136,
+        "mouthScale": 1,
+        "headRotate": 4.4784,
+        "headTranslateX": 11.9283,
+        "headTranslateY": -12.8554,
+        "headScale": 1,
+        "bodyRotate": 19.4154,
+        "bodyTranslateX": 3.7092,
+        "bodyTranslateY": -0.1039,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "07",
+      "name": "cream-joy",
+      "file": "07-cream-joy.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "cream-joy",
+        "eyesVariant": [
+          "variant03"
+        ],
+        "mouthVariant": [
+          "variant01"
+        ],
+        "shapeColor": [
+          "f1f4dc"
+        ],
+        "backgroundColor": [
+          "69d2e7"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#69d2e7"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#f1f4dc"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant03",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": -5.5862,
+        "eyesTranslateY": -8.6671,
+        "eyesScale": 1,
+        "mouthVariant": "variant01",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 7.7725,
+        "mouthScale": 1,
+        "headRotate": 12.1319,
+        "headTranslateX": -14.7042,
+        "headTranslateY": -13.7438,
+        "headScale": 1,
+        "bodyRotate": -17.3919,
+        "bodyTranslateX": -0.2838,
+        "bodyTranslateY": -3.7131,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "08",
+      "name": "orange-grin",
+      "file": "08-orange-grin.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "orange-grin",
+        "eyesVariant": [
+          "variant06"
+        ],
+        "mouthVariant": [
+          "variant02"
+        ],
+        "shapeColor": [
+          "f88c49"
+        ],
+        "backgroundColor": [
+          "f1f4dc"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#f1f4dc"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#f88c49"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant06",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": 5.5557,
+        "eyesTranslateY": 9.7943,
+        "eyesScale": 1,
+        "mouthVariant": "variant02",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": -6.4032,
+        "mouthScale": 1,
+        "headRotate": -14.9722,
+        "headTranslateX": -1.9485,
+        "headTranslateY": -8.2004,
+        "headScale": 1,
+        "bodyRotate": -19.4257,
+        "bodyTranslateX": -2.3318,
+        "bodyTranslateY": 3.1528,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "09",
+      "name": "blue-love",
+      "file": "09-blue-love.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "blue-love",
+        "eyesVariant": [
+          "variant01"
+        ],
+        "mouthVariant": [
+          "variant01"
+        ],
+        "shapeColor": [
+          "1c799f"
+        ],
+        "backgroundColor": [
+          "f1f4dc"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#f1f4dc"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#1c799f"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant01",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#ffffff"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": 0.7493,
+        "eyesTranslateY": 1.1497,
+        "eyesScale": 1,
+        "mouthVariant": "variant01",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#ffffff"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": -5.5815,
+        "mouthScale": 1,
+        "headRotate": -3.7647,
+        "headTranslateX": 7.4602,
+        "headTranslateY": 9.7427,
+        "headScale": 1,
+        "bodyRotate": -7.7677,
+        "bodyTranslateX": 1.0995,
+        "bodyTranslateY": -1.4331,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "10",
+      "name": "sky-bright",
+      "file": "10-sky-bright.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "sky-bright",
+        "eyesVariant": [
+          "variant04"
+        ],
+        "mouthVariant": [
+          "variant02"
+        ],
+        "shapeColor": [
+          "69d2e7"
+        ],
+        "backgroundColor": [
+          "f88c49"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#f88c49"
+        ],
+        "bodyVariant": "default",
+        "shapeColorFill": "solid",
+        "shapeColor": [
+          "#69d2e7"
+        ],
+        "headVariant": "default",
+        "eyesVariant": "variant04",
+        "eyesColorFill": "solid",
+        "eyesColor": [
+          "#000000"
+        ],
+        "eyesRotate": 0,
+        "eyesTranslateX": -17.4245,
+        "eyesTranslateY": 4.3783,
+        "eyesScale": 1,
+        "mouthVariant": "variant02",
+        "mouthColorFill": "solid",
+        "mouthColor": [
+          "#000000"
+        ],
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": -4.5152,
+        "mouthScale": 1,
+        "headRotate": -1.4762,
+        "headTranslateX": 11.5269,
+        "headTranslateY": 8.7798,
+        "headScale": 1,
+        "bodyRotate": -3.8687,
+        "bodyTranslateX": -2.9579,
+        "bodyTranslateY": -4.426,
+        "bodyScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    }
+  ]
+}

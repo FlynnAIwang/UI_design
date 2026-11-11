@@ -1,0 +1,600 @@
+{
+  "style": "dylan",
+  "generator": "@dicebear/core 10.7.0 + @dicebear/styles 10.6.0",
+  "httpApi": "https://api.dicebear.com/10.x/dylan/svg",
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "text": "Remix of „Dylan! The Avatar Generator” (https://www.figma.com/community/file/1356575240759683500) by „Natalia Spivak”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)"
+  },
+  "creator": {
+    "name": "Natalia Spivak",
+    "url": "https://nataspvk.tilda.ws/"
+  },
+  "source": {
+    "name": "Dylan! The Avatar Generator",
+    "url": "https://www.figma.com/community/file/1356575240759683500"
+  },
+  "faces": [
+    {
+      "id": "01",
+      "name": "plain-happy",
+      "file": "01-plain-happy.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "plain-happy",
+        "hairVariant": [
+          "plain"
+        ],
+        "moodVariant": [
+          "superHappy"
+        ],
+        "backgroundColor": [
+          "619eff"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#619eff"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "superHappy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "plain",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "02",
+      "name": "bangs-smile",
+      "file": "02-bangs-smile.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "bangs-smile",
+        "hairVariant": [
+          "bangs"
+        ],
+        "moodVariant": [
+          "happy"
+        ],
+        "backgroundColor": [
+          "ffa6e6"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffa6e6"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "happy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "bangs",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "03",
+      "name": "buns-cheer",
+      "file": "03-buns-cheer.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "buns-cheer",
+        "hairVariant": [
+          "buns"
+        ],
+        "moodVariant": [
+          "superHappy"
+        ],
+        "backgroundColor": [
+          "29e051"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#29e051"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "superHappy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "buns",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "04",
+      "name": "parting-calm",
+      "file": "04-parting-calm.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "parting-calm",
+        "hairVariant": [
+          "parting"
+        ],
+        "moodVariant": [
+          "happy"
+        ],
+        "backgroundColor": [
+          "619eff"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#619eff"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "happy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "parting",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "05",
+      "name": "roundbob-hope",
+      "file": "05-roundbob-hope.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "roundbob-hope",
+        "hairVariant": [
+          "roundBob"
+        ],
+        "moodVariant": [
+          "hopeful"
+        ],
+        "backgroundColor": [
+          "ffa6e6"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffa6e6"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "hopeful",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "roundBob",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "06",
+      "name": "spiky-energy",
+      "file": "06-spiky-energy.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "spiky-energy",
+        "hairVariant": [
+          "spiky"
+        ],
+        "moodVariant": [
+          "superHappy"
+        ],
+        "backgroundColor": [
+          "29e051"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#29e051"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "superHappy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "spiky",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "07",
+      "name": "fluffy-sweet",
+      "file": "07-fluffy-sweet.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "fluffy-sweet",
+        "hairVariant": [
+          "fluffy"
+        ],
+        "moodVariant": [
+          "happy"
+        ],
+        "backgroundColor": [
+          "619eff"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#619eff"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "happy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "fluffy",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "08",
+      "name": "flattop-grin",
+      "file": "08-flattop-grin.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "flattop-grin",
+        "hairVariant": [
+          "flatTop"
+        ],
+        "moodVariant": [
+          "superHappy"
+        ],
+        "backgroundColor": [
+          "ffa6e6"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffa6e6"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "superHappy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "flatTop",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "09",
+      "name": "wavy-friendly",
+      "file": "09-wavy-friendly.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "wavy-friendly",
+        "hairVariant": [
+          "wavy"
+        ],
+        "moodVariant": [
+          "hopeful"
+        ],
+        "backgroundColor": [
+          "29e051"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#29e051"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "hopeful",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "wavy",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "10",
+      "name": "shortcurls-fun",
+      "file": "10-shortcurls-fun.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "seed": "shortcurls-fun",
+        "hairVariant": [
+          "shortCurls"
+        ],
+        "moodVariant": [
+          "happy"
+        ],
+        "backgroundColor": [
+          "619eff"
+        ],
+        "hairColor": [
+          "000000"
+        ],
+        "skinColor": [
+          "ffd6c0"
+        ],
+        "facialHairProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#619eff"
+        ],
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#ffd6c0"
+        ],
+        "moodVariant": "happy",
+        "moodRotate": 0,
+        "moodTranslateX": 0,
+        "moodTranslateY": 0,
+        "moodScale": 1,
+        "hairVariant": "shortCurls",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#000000"
+        ],
+        "hairRotate": 0,
+        "hairTranslateX": 0,
+        "hairTranslateY": 0,
+        "hairScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,1267 @@
+{
+  "style": "voxel-art",
+  "generator": "@dicebear/core 10.7.0 + @dicebear/styles 10.6.0",
+  "httpApi": "https://api.dicebear.com/10.x/voxel-art/svg",
+  "license": {
+    "name": "CC0 1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "text": "„Voxel Art” (https://www.dicebear.com) by „DiceBear”, licensed under „CC0 1.0” (https://creativecommons.org/publicdomain/zero/1.0/)"
+  },
+  "creator": {
+    "name": "DiceBear",
+    "url": "https://www.dicebear.com"
+  },
+  "source": {
+    "name": "Voxel Art",
+    "url": "https://www.dicebear.com"
+  },
+  "faces": [
+    {
+      "id": "01",
+      "name": "short-sunny",
+      "file": "01-short-sunny.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "short-sunny",
+        "topVariant": [
+          "short"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "2c222b"
+        ],
+        "skinColor": [
+          "f5d0b0"
+        ],
+        "eyesVariant": [
+          "happy"
+        ],
+        "eyebrowsVariant": [
+          "soft"
+        ],
+        "mouthVariant": [
+          "wideSmile"
+        ],
+        "outfitVariant": [
+          "plain"
+        ],
+        "shirtColor": [
+          "fab005"
+        ],
+        "backgroundColor": [
+          "b6e3f4"
+        ],
+        "glassesProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#b6e3f4"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#d6336c"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#fab005"
+        ],
+        "pantsColor": [
+          "#4a4e69"
+        ],
+        "outfitVariant": "plain",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#f5d0b0"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "wideSmile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "happy",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "soft",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#2c222b"
+        ],
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "wide",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "short",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "02",
+      "name": "ponytail-cheerful",
+      "file": "02-ponytail-cheerful.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "ponytail-cheerful",
+        "topVariant": [
+          "ponytail"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "2c222b"
+        ],
+        "skinColor": [
+          "f5d0b0"
+        ],
+        "eyesVariant": [
+          "open"
+        ],
+        "eyebrowsVariant": [
+          "raised"
+        ],
+        "mouthVariant": [
+          "wideSmile"
+        ],
+        "outfitVariant": [
+          "stripes"
+        ],
+        "shirtColor": [
+          "e64980"
+        ],
+        "backgroundColor": [
+          "ffd5dc"
+        ],
+        "glassesProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffd5dc"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#1971c2"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#e64980"
+        ],
+        "pantsColor": [
+          "#495057"
+        ],
+        "outfitVariant": "stripes",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#f5d0b0"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "wideSmile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "open",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "raised",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#2c222b"
+        ],
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "wide",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "ponytail",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "03",
+      "name": "sideswept-glasses",
+      "file": "03-sideswept-glasses.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "sideswept-glasses",
+        "topVariant": [
+          "sideSwept"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "3b2f2f"
+        ],
+        "skinColor": [
+          "eab890"
+        ],
+        "eyesVariant": [
+          "open"
+        ],
+        "eyebrowsVariant": [
+          "soft"
+        ],
+        "mouthVariant": [
+          "smile"
+        ],
+        "outfitVariant": [
+          "hoodie"
+        ],
+        "shirtColor": [
+          "228be6"
+        ],
+        "backgroundColor": [
+          "ffdfbf"
+        ],
+        "glassesProbability": 100,
+        "glassesVariant": [
+          "round"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffdfbf"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#6741d9"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#228be6"
+        ],
+        "pantsColor": [
+          "#6b4f3a"
+        ],
+        "outfitVariant": "hoodie",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#eab890"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "smile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "open",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "soft",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#3b2f2f"
+        ],
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "wide",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "glassesVariant": "round",
+        "glassesRotate": 0,
+        "glassesTranslateX": 0,
+        "glassesTranslateY": 0,
+        "glassesScale": 1,
+        "topVariant": "sideSwept",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "04",
+      "name": "bob-sweet",
+      "file": "04-bob-sweet.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "bob-sweet",
+        "topVariant": [
+          "bob"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "2c222b"
+        ],
+        "skinColor": [
+          "f5d0b0"
+        ],
+        "eyesVariant": [
+          "soft"
+        ],
+        "eyebrowsVariant": [
+          "soft"
+        ],
+        "mouthVariant": [
+          "wideSmile"
+        ],
+        "outfitVariant": [
+          "overalls"
+        ],
+        "shirtColor": [
+          "fab005"
+        ],
+        "backgroundColor": [
+          "c0aede"
+        ],
+        "glassesProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#c0aede"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#f1f3f5"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#fab005"
+        ],
+        "pantsColor": [
+          "#2f4160"
+        ],
+        "outfitVariant": "overalls",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#f5d0b0"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "wideSmile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "soft",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "soft",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#2c222b"
+        ],
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "tall",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "bob",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "05",
+      "name": "cap-energetic",
+      "file": "05-cap-energetic.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "cap-energetic",
+        "topVariant": [
+          "cap"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "2c222b"
+        ],
+        "skinColor": [
+          "eab890"
+        ],
+        "eyesVariant": [
+          "happy"
+        ],
+        "eyebrowsVariant": [
+          "raised"
+        ],
+        "mouthVariant": [
+          "wideSmile"
+        ],
+        "outfitVariant": [
+          "jacket"
+        ],
+        "shirtColor": [
+          "12b886"
+        ],
+        "backgroundColor": [
+          "ffdfbf"
+        ],
+        "glassesProbability": 0,
+        "hatColor": [
+          "e0876d"
+        ],
+        "jacketColor": [
+          "f8f9fa"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffdfbf"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#f1f3f5"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#12b886"
+        ],
+        "pantsColor": [
+          "#495057"
+        ],
+        "outfitVariant": "jacket",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#eab890"
+        ],
+        "jacketColorFill": "solid",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#2c222b"
+        ],
+        "hatColorFill": "solid",
+        "hatColor": [
+          "#e0876d"
+        ],
+        "jacketColor": [
+          "#f8f9fa"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "wideSmile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "happy",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "raised",
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "wide",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "cap",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "06",
+      "name": "buns-lively",
+      "file": "06-buns-lively.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "buns-lively",
+        "topVariant": [
+          "buns"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "2c222b"
+        ],
+        "skinColor": [
+          "f5d0b0"
+        ],
+        "eyesVariant": [
+          "happy"
+        ],
+        "eyebrowsVariant": [
+          "soft"
+        ],
+        "mouthVariant": [
+          "smile"
+        ],
+        "outfitVariant": [
+          "checker"
+        ],
+        "shirtColor": [
+          "f76707"
+        ],
+        "backgroundColor": [
+          "b6e3f4"
+        ],
+        "glassesProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#b6e3f4"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#f1f3f5"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#f76707"
+        ],
+        "pantsColor": [
+          "#4a4e69"
+        ],
+        "outfitVariant": "checker",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#f5d0b0"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "smile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "happy",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "soft",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#2c222b"
+        ],
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "block",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "buns",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "07",
+      "name": "suit-confident",
+      "file": "07-suit-confident.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "suit-confident",
+        "topVariant": [
+          "sideSwept"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "2c222b"
+        ],
+        "skinColor": [
+          "f5d0b0"
+        ],
+        "eyesVariant": [
+          "open"
+        ],
+        "eyebrowsVariant": [
+          "flat"
+        ],
+        "mouthVariant": [
+          "smile"
+        ],
+        "outfitVariant": [
+          "suit"
+        ],
+        "shirtColor": [
+          "f8f9fa"
+        ],
+        "backgroundColor": [
+          "d1d4f9"
+        ],
+        "glassesProbability": 0,
+        "jacketColor": [
+          "3b5b8c"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#d1d4f9"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#f1f3f5"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#f8f9fa"
+        ],
+        "pantsColor": [
+          "#7a86a8"
+        ],
+        "outfitVariant": "suit",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#f5d0b0"
+        ],
+        "jacketColorFill": "solid",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#2c222b"
+        ],
+        "hatColorFill": "solid",
+        "hatColor": [
+          "#5ba8a0"
+        ],
+        "jacketColor": [
+          "#3b5b8c"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "smile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "open",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "flat",
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "block",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "sideSwept",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "08",
+      "name": "longhair-gentle",
+      "file": "08-longhair-gentle.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "longhair-gentle",
+        "topVariant": [
+          "longStraight"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "3b2f2f"
+        ],
+        "skinColor": [
+          "f5d0b0"
+        ],
+        "eyesVariant": [
+          "soft"
+        ],
+        "eyebrowsVariant": [
+          "soft"
+        ],
+        "mouthVariant": [
+          "smile"
+        ],
+        "outfitVariant": [
+          "coat"
+        ],
+        "shirtColor": [
+          "4c6ef5"
+        ],
+        "backgroundColor": [
+          "ffd5dc"
+        ],
+        "glassesProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffd5dc"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#1971c2"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#4c6ef5"
+        ],
+        "pantsColor": [
+          "#2f4160"
+        ],
+        "outfitVariant": "coat",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#f5d0b0"
+        ],
+        "jacketColorFill": "solid",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#3b2f2f"
+        ],
+        "hatColorFill": "solid",
+        "hatColor": [
+          "#4a6fa5"
+        ],
+        "jacketColor": [
+          "#b55239"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "smile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "soft",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "soft",
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "tall",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "longStraight",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "09",
+      "name": "curly-brown",
+      "file": "09-curly-brown.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "curly-brown",
+        "topVariant": [
+          "curly"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "5a3825"
+        ],
+        "skinColor": [
+          "eab890"
+        ],
+        "eyesVariant": [
+          "happy"
+        ],
+        "eyebrowsVariant": [
+          "raised"
+        ],
+        "mouthVariant": [
+          "smile"
+        ],
+        "outfitVariant": [
+          "tie"
+        ],
+        "shirtColor": [
+          "40c057"
+        ],
+        "backgroundColor": [
+          "d1d4f9"
+        ],
+        "glassesProbability": 0
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#d1d4f9"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#1971c2"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#40c057"
+        ],
+        "pantsColor": [
+          "#495057"
+        ],
+        "outfitVariant": "tie",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#eab890"
+        ],
+        "jacketColorFill": "solid",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#5a3825"
+        ],
+        "hatColorFill": "solid",
+        "hatColor": [
+          "#5ba8a0"
+        ],
+        "jacketColor": [
+          "#3b5b8c"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "smile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "happy",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "raised",
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "wide",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "topVariant": "curly",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    },
+    {
+      "id": "10",
+      "name": "shoulder-studious",
+      "file": "10-shoulder-studious.png",
+      "input": {
+        "size": 320,
+        "borderRadius": 50,
+        "beardProbability": 0,
+        "cheeksProbability": 100,
+        "cheeksVariant": [
+          "blush"
+        ],
+        "eyebrowsProbability": 100,
+        "seed": "shoulder-studious",
+        "topVariant": [
+          "shoulderLength"
+        ],
+        "topProbability": 100,
+        "hairColor": [
+          "2c222b"
+        ],
+        "skinColor": [
+          "f5d0b0"
+        ],
+        "eyesVariant": [
+          "open"
+        ],
+        "eyebrowsVariant": [
+          "soft"
+        ],
+        "mouthVariant": [
+          "wideSmile"
+        ],
+        "outfitVariant": [
+          "stripes"
+        ],
+        "shirtColor": [
+          "7950f2"
+        ],
+        "backgroundColor": [
+          "ffdfbf"
+        ],
+        "glassesProbability": 100,
+        "glassesVariant": [
+          "square"
+        ]
+      },
+      "resolved": {
+        "backgroundColorFill": "solid",
+        "backgroundColor": [
+          "#ffdfbf"
+        ],
+        "shoesColorFill": "solid",
+        "shoesColor": [
+          "#343a40"
+        ],
+        "pantsColorFill": "solid",
+        "shirtColorFill": "solid",
+        "shirtColor": [
+          "#7950f2"
+        ],
+        "pantsColor": [
+          "#4a4e69"
+        ],
+        "outfitVariant": "stripes",
+        "skinColorFill": "solid",
+        "skinColor": [
+          "#f5d0b0"
+        ],
+        "outfitRotate": 0,
+        "outfitTranslateX": 0,
+        "outfitTranslateY": 0,
+        "outfitScale": 1,
+        "mouthVariant": "wideSmile",
+        "mouthRotate": 0,
+        "mouthTranslateX": 0,
+        "mouthTranslateY": 0,
+        "mouthScale": 1,
+        "cheeksVariant": "blush",
+        "cheeksRotate": 0,
+        "cheeksTranslateX": 0,
+        "cheeksTranslateY": 0,
+        "cheeksScale": 1,
+        "eyesVariant": "open",
+        "eyesRotate": 0,
+        "eyesTranslateX": 0,
+        "eyesTranslateY": 0,
+        "eyesScale": 1,
+        "eyebrowsVariant": "soft",
+        "hairColorFill": "solid",
+        "hairColor": [
+          "#2c222b"
+        ],
+        "eyebrowsRotate": 0,
+        "eyebrowsTranslateX": 0,
+        "eyebrowsTranslateY": 0,
+        "eyebrowsScale": 1,
+        "animationVariant": "none",
+        "animationRotate": 0,
+        "animationTranslateX": 0,
+        "animationTranslateY": 0,
+        "animationScale": 1,
+        "noseVariant": "small",
+        "noseRotate": 0,
+        "noseTranslateX": 0,
+        "noseTranslateY": 0,
+        "noseScale": 1,
+        "glassesVariant": "square",
+        "glassesRotate": 0,
+        "glassesTranslateX": 0,
+        "glassesTranslateY": 0,
+        "glassesScale": 1,
+        "topVariant": "shoulderLength",
+        "topRotate": 0,
+        "topTranslateX": 0,
+        "topTranslateY": 0,
+        "topScale": 1,
+        "scale": 1,
+        "flip": "none",
+        "rotate": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "borderRadius": 50,
+        "size": 320,
+        "idRandomization": false
+      }
+    }
+  ]
+}

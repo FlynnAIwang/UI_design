@@ -1,154 +1,192 @@
 [
  {
-  "name": "01 短发·干练",
-  "bg": "peach",
-  "hex": "#FECCA9",
-  "layers": {
-   "skintone": 1,
-   "hair": 147,
-   "eyes": 1,
-   "brows": 11,
-   "nose": 1,
-   "mouth": 26
-  },
-  "param": "s1n1h147m26e1b11",
-  "file": "01-peach.png"
- },
- {
-  "name": "02 长发·温和",
-  "bg": "blush",
-  "hex": "#FDC1C5",
-  "layers": {
-   "skintone": 2,
-   "hair": 1,
-   "eyes": 2,
-   "brows": 16,
-   "nose": 2,
-   "mouth": 27
-  },
-  "param": "s2n2h1m27e2b16",
-  "file": "02-blush.png"
- },
- {
-  "name": "03 寸头·理性",
-  "bg": "grey",
-  "hex": "#EBE9E9",
-  "layers": {
-   "skintone": 3,
-   "hair": 169,
-   "eyes": 31,
-   "brows": 22,
-   "nose": 5,
-   "mouth": 13
-  },
-  "param": "s3n5h169m13e31b22",
-  "file": "03-grey.png"
- },
- {
-  "name": "04 卷发·活泼",
+  "name": "01 开朗·短发",
+  "stretch": [
+   1.0,
+   1.0
+  ],
   "bg": "lemon",
   "hex": "#FBF293",
   "layers": {
    "skintone": 1,
-   "hair": 187,
-   "eyes": 20,
-   "brows": 1,
-   "nose": 6,
-   "mouth": 29
+   "hair": 156,
+   "eyes": 39,
+   "brows": 22,
+   "nose": 1,
+   "mouth": 16
   },
-  "param": "s1n6h187m29e20b1",
-  "file": "04-lemon.png"
+  "param": "s1n1h156m16e39b22",
+  "file": "01-lemon.png"
  },
  {
-  "name": "05 眼镜·分析",
+  "name": "02 灵动·波波头",
+  "stretch": [
+   0.94,
+   1.04
+  ],
+  "bg": "blush",
+  "hex": "#FDC1C5",
+  "layers": {
+   "skintone": 2,
+   "hair": 22,
+   "eyes": 30,
+   "brows": 13,
+   "nose": 2,
+   "mouth": 29
+  },
+  "param": "s2n2h22m29e30b13",
+  "file": "02-blush.png"
+ },
+ {
+  "name": "03 活力·爆炸头",
+  "stretch": [
+   1.08,
+   0.96
+  ],
   "bg": "mint",
   "hex": "#A3F1C9",
   "layers": {
-   "skintone": 4,
-   "hair": 163,
-   "eyes": 1,
-   "brows": 11,
-   "nose": 13,
-   "mouth": 26,
-   "eyewear": 2
+   "skintone": 5,
+   "hair": 229,
+   "eyes": 38,
+   "brows": 16,
+   "nose": 6,
+   "mouth": 28
   },
-  "param": "s4n13h163m26y2e1b11",
-  "file": "05-mint.png"
+  "param": "s5n6h229m28e38b16",
+  "file": "03-mint.png"
  },
  {
-  "name": "06 马尾·客服",
+  "name": "04 元气·丸子头",
+  "stretch": [
+   0.92,
+   1.06
+  ],
   "bg": "lavender",
   "hex": "#CEC7E6",
   "layers": {
-   "skintone": 2,
-   "hair": 19,
-   "eyes": 60,
-   "brows": 16,
-   "nose": 1,
-   "mouth": 28
+   "skintone": 4,
+   "hair": 141,
+   "eyes": 30,
+   "brows": 11,
+   "nose": 5,
+   "mouth": 14
   },
-  "param": "s2n1h19m28e60b16",
-  "file": "06-lavender.png"
+  "param": "s4n5h141m14e30b11",
+  "file": "04-lavender.png"
  },
  {
-  "name": "07 浅发·创意",
+  "name": "05 阳光·平头",
+  "stretch": [
+   1.1,
+   0.98
+  ],
+  "bg": "peach",
+  "hex": "#FECCA9",
+  "layers": {
+   "skintone": 3,
+   "hair": 217,
+   "eyes": 2,
+   "brows": 22,
+   "nose": 13,
+   "mouth": 2
+  },
+  "param": "s3n13h217m2e2b22",
+  "file": "05-peach.png"
+ },
+ {
+  "name": "06 俏皮·高马尾",
+  "stretch": [
+   0.96,
+   1.04
+  ],
   "bg": "yellow",
   "hex": "#FFBA33",
   "layers": {
    "skintone": 1,
-   "hair": 159,
-   "eyes": 2,
-   "brows": 22,
-   "nose": 2,
-   "mouth": 30
+   "hair": 28,
+   "eyes": 20,
+   "brows": 17,
+   "nose": 1,
+   "mouth": 56
   },
-  "param": "s1n2h159m30e2b22",
-  "file": "07-yellow.png"
+  "param": "s1n1h28m56e20b17",
+  "file": "06-yellow.png"
  },
  {
-  "name": "08 帽子·运营",
+  "name": "07 自信·侧分",
+  "stretch": [
+   1.04,
+   1.0
+  ],
   "bg": "blue",
   "hex": "#097FE8",
   "layers": {
-   "skintone": 5,
-   "hair": 259,
-   "eyes": 31,
-   "brows": 1,
-   "nose": 5,
+   "skintone": 6,
+   "hair": 184,
+   "eyes": 33,
+   "brows": 30,
+   "nose": 2,
    "mouth": 27
   },
-  "param": "s5n5h259m27e31b1",
-  "file": "08-blue.png"
+  "param": "s6n2h184m27e33b30",
+  "file": "07-blue.png"
  },
  {
-  "name": "09 短卷·数据",
+  "name": "08 轻松·渔夫帽",
+  "stretch": [
+   1.0,
+   0.96
+  ],
+  "bg": "grey",
+  "hex": "#EBE9E9",
+  "layers": {
+   "skintone": 2,
+   "hair": 344,
+   "eyes": 12,
+   "brows": 21,
+   "nose": 6,
+   "mouth": 26
+  },
+  "param": "s2n6h344m26e12b21",
+  "file": "08-grey.png"
+ },
+ {
+  "name": "09 温暖·长卷发",
+  "stretch": [
+   0.94,
+   1.06
+  ],
   "bg": "red",
   "hex": "#F64932",
   "layers": {
-   "skintone": 3,
-   "hair": 190,
-   "eyes": 20,
-   "brows": 11,
-   "nose": 6,
-   "mouth": 26,
-   "eyewear": 6
+   "skintone": 4,
+   "hair": 88,
+   "eyes": 37,
+   "brows": 32,
+   "nose": 13,
+   "mouth": 26
   },
-  "param": "s3n6h190m26y6e20b11",
+  "param": "s4n13h88m26e37b32",
   "file": "09-red.png"
  },
  {
-  "name": "10 中长发·策划",
+  "name": "10 机灵·翘发",
+  "stretch": [
+   1.06,
+   1.02
+  ],
   "bg": "peach",
   "hex": "#FECCA9",
   "layers": {
-   "skintone": 6,
-   "hair": 51,
+   "skintone": 3,
+   "hair": 244,
    "eyes": 1,
-   "brows": 16,
-   "nose": 13,
-   "mouth": 29
+   "brows": 18,
+   "nose": 5,
+   "mouth": 15
   },
-  "param": "s6n13h51m29e1b16",
+  "param": "s3n5h244m15e1b18",
   "file": "10-peach.png"
  }
 ]

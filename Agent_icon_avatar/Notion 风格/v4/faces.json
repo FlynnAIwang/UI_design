@@ -1,0 +1,102 @@
+[
+  {
+    "name": "01 清爽短发",
+    "bg": "butter",
+    "hex": "#F4E6A5",
+    "skin": "#F1C5A4",
+    "ink": "#2B2927",
+    "file": "01-butter.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "02 柔和波波头",
+    "bg": "rose",
+    "hex": "#E9C3C8",
+    "skin": "#F2C7AB",
+    "ink": "#2D292B",
+    "file": "02-rose.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "03 自然卷发",
+    "bg": "sage",
+    "hex": "#B8D9C3",
+    "skin": "#C98E78",
+    "ink": "#26302C",
+    "file": "03-sage.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "04 优雅丸子头",
+    "bg": "lilac",
+    "hex": "#CDC8DF",
+    "skin": "#DCA98D",
+    "ink": "#2D2B33",
+    "file": "04-lilac.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "05 阳光平头",
+    "bg": "apricot",
+    "hex": "#F2C6A2",
+    "skin": "#C88A72",
+    "ink": "#302A29",
+    "file": "05-apricot.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "06 俏皮高马尾",
+    "bg": "lemon",
+    "hex": "#F0D36C",
+    "skin": "#F4CFB0",
+    "ink": "#302D27",
+    "file": "06-lemon.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "07 安静侧分",
+    "bg": "mist",
+    "hex": "#AFCBE0",
+    "skin": "#D9A789",
+    "ink": "#28313A",
+    "file": "07-mist.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "08 轻松渔夫帽",
+    "bg": "stone",
+    "hex": "#DED9D1",
+    "skin": "#F0C7A8",
+    "ink": "#302E2C",
+    "file": "08-stone.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "09 温暖长卷发",
+    "bg": "coral",
+    "hex": "#E6A19A",
+    "skin": "#D9A181",
+    "ink": "#34292B",
+    "file": "09-coral.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  },
+  {
+    "name": "10 灵动翘发",
+    "bg": "oat",
+    "hex": "#EED6B9",
+    "skin": "#D69C7E",
+    "ink": "#302B29",
+    "file": "10-oat.png",
+    "style": "Notion editorial v4",
+    "contrastChecked": true
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "01 开朗短发",
+    "bg": "lemon",
+    "hex": "#FBF293",
+    "source": "07-mist.png",
+    "file": "01-lemon.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "02 柔和波波头",
+    "bg": "blush",
+    "hex": "#FDC1C5",
+    "source": "02-rose.png",
+    "file": "02-blush.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "03 自然卷微笑",
+    "bg": "mint",
+    "hex": "#A3F1C9",
+    "source": "03-sage.png",
+    "file": "03-mint.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "04 丸子头开朗",
+    "bg": "lavender",
+    "hex": "#CEC7E6",
+    "source": "04-lilac.png",
+    "file": "04-lavender.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "05 阳光平头",
+    "bg": "peach",
+    "hex": "#FECCA9",
+    "source": "03-sage.png",
+    "file": "05-peach.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "06 高马尾灵动",
+    "bg": "gold",
+    "hex": "#FFBA33",
+    "source": "04-lilac.png",
+    "file": "06-gold.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "07 侧分自信",
+    "bg": "sky",
+    "hex": "#63B5EF",
+    "source": "07-mist.png",
+    "file": "07-sky.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "08 渔夫帽亲和",
+    "bg": "grey",
+    "hex": "#EBE9E9",
+    "source": "08-stone.png",
+    "file": "08-grey.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "09 长卷发温暖",
+    "bg": "red",
+    "hex": "#F64932",
+    "source": "09-coral.png",
+    "file": "09-red.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  },
+  {
+    "name": "10 翘发明朗",
+    "bg": "orange",
+    "hex": "#F4A261",
+    "source": "08-stone.png",
+    "file": "10-orange.png",
+    "eyes": "open",
+    "mood": "smile",
+    "style": "Notion bright v5"
+  }
+]
